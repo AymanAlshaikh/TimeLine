@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+head {
+  background: dimgray;
+}
+.page {
+  background: rgb(189, 160, 86);
+}
+h1 {
+  text-align: center;
+  color: rgb(59, 74, 90);
+  background: #ffd900;
+  background-size: 10%;
+}
+h4 {
+  color: blue;
+  font-size: large;
+  text-align: center;
+  font-family: serif;
+  background: chocolate;
+}
+p {
+  color: rgb(82, 77, 77);
+  font-weight: bolder;
+  font-size: large;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+img {
+  align-items: center;
+  display: flex;
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40%;
+  padding: 10px 10px;
+  border: dashed black;
+}
+ul {
+  text-align: center;
+  font-weight: bold;
+}
